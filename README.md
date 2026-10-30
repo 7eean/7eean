@@ -10,7 +10,7 @@ Currently working on **AI & Digital Innovation** at **Municipalidad de Vicente L
 
 <br>
 
-<img src="https://media0.giphy.com/media/WhTC5v5qQP4yAUvGKz/giphy.gif" width="420"/>
+<img src="https://media0.giphy.com/media/jN9S0faVsUUfdaY50J/giphy.gif" width="420"/>
 
 </div>
 
