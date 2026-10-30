@@ -41,4 +41,6 @@ Built and studied systems around **Ethereum, Solidity, Smart Contracts and Web3 
 📍 Buenos Aires, Argentina 🇦🇷  
 📫 **gomezleandro149@gmail.com**
 
+<img src="https://media0.giphy.com/media/3o72FaZgzzFmqoNfBm/giphy.gif" width="320"/>
+
 </div>
