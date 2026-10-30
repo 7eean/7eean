@@ -8,9 +8,7 @@ Building AI-powered products and digital tools for real-world operations.
 
 Currently working on AI Engineering & Innovation at Municipalidad de Vicente López.
 
-<br>
-
-<img src="https://media0.giphy.com/media/jN9S0faVsUUfdaY50J/giphy.gif" width="420"/>
+<img src="https://media0.giphy.com/media/j4l29DaRrIgEIPRHlt/giphy.gif" width="420"/>
 
 </div>
 
@@ -23,16 +21,6 @@ Software Engineer focused on turning **ideas and AI prototypes into production-r
 I work across the full stack — from interfaces and APIs to **LLM orchestration, computer vision, automation and AI evaluation**.
 
 `Agentic Systems` · `Computer Vision` · `AI Evaluation` · `GovTech` · `Smart Cities`
-
----
-
-## Fav Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,py,go,postgres,supabase,docker,aws,git&perline=12" />
-
-</div>
 
 ---
 
