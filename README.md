@@ -8,7 +8,7 @@ Building AI-powered products and digital tools for real-world operations.
 
 Currently working on AI Engineering & Innovation at Municipalidad de Vicente López.
 
-<img src="https://media0.giphy.com/media/j4l29DaRrIgEIPRHlt/giphy.gif" width="420"/>
+<img src="https://media0.giphy.com/media/sOzHwf1DF8h96A5tXU/giphy.gif" width="420"/>
 
 </div>
 
