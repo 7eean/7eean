@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Leandro Gómez 👋
+## Hey, I'm Lean
 
-### AI Software Engineer · Full Stack · Applied AI
+AI Software Engineer · Full Stack · Applied AI
 
-Building **AI-powered products, agentic systems and digital tools** for real-world operations.
+Building AI-powered products and digital tools for real-world operations.
 
-Currently working on **AI & Digital Innovation** at **Municipalidad de Vicente López**.
+Currently working on AI Engineering & Innovation at Municipalidad de Vicente López.
 
 <br>
 
